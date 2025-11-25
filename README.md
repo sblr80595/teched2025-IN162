@@ -45,10 +45,6 @@ Chapters in this section provide pre-configured setups to support learning, with
 - [SAP Service Cloud Version 2 System Configurations (for your information only)](intro/intro3/README.md)
 
 ## System URL and login information 
-
-> [!NOTE]
-> If you are attending **ASUG TechConnect**, you are currently in the wrong GitHub branch — please switch to the [**asug2025 branch**](https://github.com/SAP-samples/teched2025-IN162/tree/asug2025) and follow the instructions provided there. If you are uncertain about which tenant to use, consult your **workshop instructors**.
-
 To complete the exercises, the access to the following systems have been provided. \
 **In case you are not able to access any of these systems please contact the workshop instructors**.
 
@@ -85,7 +81,7 @@ The complete list of exercise steps are listed below, run through them in the gi
 - [Exercise 4 - Create an Integration Flow for Service Cloud Support Case event to embedding model to SAP HANA Vector DB for AI Grounding in SAP Integration Suite](./exercises/ex4/README.md)
     - [Exercise 4.1 (Recommended and an alternate to Exercise 4.2) - Copy an existing Integration FLow to receive a Support Case creation event, transform into embeddings and persist to SAP HANA Vector DB](./exercises/ex4/ex4_1_details.md)
       <br>OR<br>
-    - [Exercise 4.2 - Create an Integration FLow from scratch to receive a Support Case creation event, transform into embeddings and persist to SAP HANA Vector DB](./exercises/ex4/ex4_2_details.md)
+    - [Exercise 4.2 - Create an Integration Flow from scratch to receive a Support Case creation event, transform into embeddings and persist to SAP HANA Vector DB](./exercises/ex4/ex4_2_details.md)
 - [Exercise 5 - Create a new Sales Order and a Support Case to trigger the respective integrations using an event-driven pattern](./exercises/ex5/README.md)
     - [Exercise 5.1 - Create a new Sales Order in SAP S/4HANA Cloud system](./exercises/ex5/ex5_1_details.md)
     - [Exercise 5.2 - Monitor Message Processing Logs in Cloud Integration after Sales Order Creation](./exercises/ex5/ex5_2_details.md)
