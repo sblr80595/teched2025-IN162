@@ -13,14 +13,14 @@ The focus of this hands-on session is to build and run real-time grounding for L
 		![Pic 21-2](./images/ex63-1.png)
 	<br><br>
 2. Provide below prompt as per your assigned user identifier
-   1. "I am Customer Success Partner for BestRun <b>IN162-0`**`</b> *(replace `**` with your assigned participant number)*. Could you prepare talking points and summary for my meeting with customer. Search and show all the recent sales orders and service tickets raised by this customer. Also, summarize what the response in 3 categories list of sale orders, list of service tickets and propose actions to resolve issues in service tickets."
+   1. `I am Customer Success Partner for BestRun IN162-0** (replace ** with your assigned participant number). Could you prepare talking points and summary for my meeting with customer. Search and show all the recent sales orders and service tickets raised by this customer. Also, summarize what the response in 3 categories list of sale orders, list of service tickets and propose actions to resolve issues in service tickets.`
  	<br><br>
 	![Pic 21-2](./images/ex63-2.png)
 	<br><br>
 	2. Click Send and wait for the response
 	<br><br>
     ![Pic 21-2](./images/ex63-3.png)
-    3. In case Joule assistant again asked for any confirmation, write "Proceed with the given information".
+    3. In case Joule assistant again asked for any confirmation, write `Proceed with the given information`.
 	<br><br>
     ![Pic 21-2](./images/ex63-3-1.png)
 	<br><br>
@@ -93,4 +93,5 @@ The focus of this hands-on session is to build and run real-time grounding for L
 
 # Summary
 We have successfully executed the completed the hands-on exercise from real time ingestion of Sales Order and Service Ticket data to the generation of talking points along with proposal for remedial actions and proposals to avoid issues in future based on the latest information available.
+
 
