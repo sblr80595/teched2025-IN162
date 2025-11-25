@@ -93,9 +93,7 @@ The complete list of exercise steps are listed below, run through them in the gi
     - [Exercise 6.3 - Go through pre-built Joule Skill to trigger the Integration Flow as an Action for generation of key talking points for customer meeting](exercises/ex6#exercise-63---learning-purpose---go-through-pre-built-joule-skill-to-trigger-the-integration-flow-as-an-action-for-generation-of-key-talking-points-for-customer-meeting-optional)
 
 ## Feedback
-Kindly provide your feedback on session **IN162** by scanning the QR code.
-
-![Pic Feedback QR](./feedback_QR.png)
+Kindly provide your feedback on session **IN162**.
 
 ## Additional Relevant Sessions
 You can also gain some further knowledge around SAP Integration Suite and SAP Integration Suite, advanced event mesh by attending the following SAP TechEd Hands-on Workshop sessions:
