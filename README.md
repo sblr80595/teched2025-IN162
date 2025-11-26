@@ -54,7 +54,7 @@ To complete the exercises, the access to the following systems have been provide
 - [SAP S/4HANA Cloud](https://my427029.s4hana.cloud.sap/ui)
 - [SAP Service Cloud Version 2](https://my1001903.de1.demo.crm.cloud.sap/)
 - [SAP Joule: Customer Success Digital Assistant](https://in162-ntn259xc.eu10.sapdas.cloud.sap/webclient/standalone/sap_digital_assistant)
-
+- [SAP Integration Suite - Backup Tenant](https://workshop-eu-01b.integrationsuite-cpi035.cfapps.eu20-001.hana.ondemand.com/shell/design)
 
 > [!IMPORTANT]
 > - _For a smooth experience, tenants have been preconfigured, and you already have all the roles and permissions needed to complete this exercise._
